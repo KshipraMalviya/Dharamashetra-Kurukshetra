@@ -98,6 +98,7 @@ function login () {
 
     // DOne
     alert('User Logged In!!')
+    // var pa='localhost:3000/authenticated'
     var pa = '/authenticated';
     window.location=pa;
   })
